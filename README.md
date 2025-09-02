@@ -7,7 +7,7 @@
 This project presents a machine learning system capable of diagnosing Parkinson's Disease through voice sample analysis. The model has been specifically developed and donated to **Cure Parkinson's** ([https://cureparkinsons.org.uk/](https://cureparkinsons.org.uk/)) to support their research efforts.
 
 *Acknowledgement of the research donation from Cure Parkinson's Community & Events Officer, Tash Burrell.*
-![Donation Proof](./assets/Screenshot 2025-09-02 134312.png)
+![Screenshot 2025-09-02 134312.png](./assets/Screenshot 2025-09-02 134312.png)
 
 ## 🎯 Key Features
 
