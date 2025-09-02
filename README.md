@@ -58,7 +58,8 @@ The model uses 22 clinically relevant vocal features, including:
 
 This algorithm and the accompanying research have been officially donated to **Cure Parkinson's** for their ongoing research into Parkinson's Disease treatment and diagnosis. The donation was acknowledged by their Research Team as a valuable contribution to their work, as shown in the email correspondence.
 
-![Donation Proof](./Screenshot 2025-09-02 134312.png)
+![Email Confirmation from Cure Parkinson's](./assets/Screenshot%202025-09-02%20134312.png)
+*Acknowledgement of the research donation from Cure Parkinson's Community & Events Officer, Tash Burrell.*
 
 ## 📄 Citation
 
